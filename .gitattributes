@@ -1,3 +1,7 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+CreditCardFraudProject/creditcardFraudDetection.ipynb filter=lfs diff=lfs merge=lfs -text
+creditcardFraudDetection.ipynb filter=lfs diff=lfs merge=lfs -text
+CreditCardFraudProject/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+CreditCardFraudProject/archive(1).zip filter=lfs diff=lfs merge=lfs -text
